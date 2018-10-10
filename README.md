@@ -1,4 +1,11 @@
-# calculator
+# Calculator
+## Overview
+This is a simple implementation of calculator.
+The aim:
+- calculator should be editable via keyboard and mouse
+- create testable components
+- provide good test coverage
+- provide modern ui
 
 ## Project setup
 ```
